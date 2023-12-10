@@ -1,0 +1,3 @@
+﻿  main.c
+D:\就业课程\C语言学习\2023.11.10\Project1\main.c(8,11): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Project1.vcxproj -> D:\就业课程\C语言学习\2023.11.10\Project1\x64\Debug\Project1.exe
